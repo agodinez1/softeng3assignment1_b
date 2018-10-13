@@ -33,8 +33,8 @@
 		</dependency>
 		<dependency>
 			<groupId>com.github.agodinez1</groupId>
-			<artifactId>softeng3assignment1</artifactId>
-			<version>499d5e9beb</version>
+			<artifactId>softeng3assignment1_a</artifactId>
+			<version>-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>

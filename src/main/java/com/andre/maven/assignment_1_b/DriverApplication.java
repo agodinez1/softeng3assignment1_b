@@ -4,9 +4,9 @@ import java.sql.Timestamp;
 
 import org.joda.time.DateTime;
 
-import com.andre.maven.assignment1.Course;
-import com.andre.maven.assignment1.Module;
-import com.andre.maven.assignment1.Student;
+import com.andre.maven.assignment1_a.Course;
+import com.andre.maven.assignment1_a.Module;
+import com.andre.maven.assignment1_a.Student;
 
 /**
  * Driver Application for student, course, module assignment
